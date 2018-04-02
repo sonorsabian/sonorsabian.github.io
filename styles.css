@@ -32,7 +32,7 @@ body {
   padding-left: 20px;
 }
 .container {
-  max-width: 1000px;
+  max-width: 950px;
   margin: 0 auto;
 }
 .post {
@@ -76,7 +76,7 @@ p {
 }
 #footer {
   background-color: #2f2f2f;
-  padding: 50px 0;
+  padding: 100px 0;
 }
 .column {
   min-width: 300px;
